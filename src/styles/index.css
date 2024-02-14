@@ -1,3 +1,6 @@
-/* 
-    General Styles
-*/
+@import "./navbar.css";
+@import "./home.css";
+@import "./footer.css";
+@import "./CardsPeople.css";
+@import "./Details.css";
+@import "./Loader.css";

@@ -1,0 +1,16 @@
+p,
+.github {
+  color: #cac873;
+  font-weight: 600;
+}
+
+.github {
+  text-decoration: none;
+  font-size: 2rem;
+  transition: all 0.4s;
+}
+
+.github:hover {
+  color: #cfbb35c3;
+  font-size: 1.8rem;
+}

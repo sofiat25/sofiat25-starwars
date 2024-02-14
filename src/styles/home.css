@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-image: url(https://cdn.wallpapersafari.com/96/60/ZBf0Im.jpg);
+  
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: "Josefin Sans";
+  }
+  
+  .heading {
+    color: #cac973;
+    text-shadow: 1px 1px 2px #cac973;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 3.5rem;
+  }

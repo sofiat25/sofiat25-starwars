@@ -1,0 +1,56 @@
+.modal-content {
+    background-color: #002;
+    width: 700px;
+  }
+  
+  .modal-header {
+    background-color: #cac873;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+  .modal-body {
+    display: flex;
+  }
+  
+  .image-detalle {
+    width: 300px;
+    height: 370px;
+    margin-right: 20px;
+  }
+  
+  .btn-close {
+    background-color: red;
+    color: #002;
+  }
+  
+  .text-description {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-left: 50px;
+  }
+  .btn-close:hover {
+    background-color: #f56d04;
+    color: #002;
+  }
+  
+  .modal-title {
+    color: #002;
+    font-size: 2.2rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .prop-value {
+    font-weight: 500;
+  }
+  
+  .value-detail {
+    color: #cdccab;
+  }
+  
+  .modal-footer p {
+    letter-spacing: 1px;
+  }
